@@ -4,7 +4,8 @@ Include an introduction here about the program and the blogs.
 
 ## Blog categories:
 We can include the different categories of blogs here like:
-- IoT
+(On clicking a category, it is redirected to the blogs in that category)
+- [IoT](https://github.com/Vidushi-Gupta/Blogs/tree/main/IoT)
 - Data Science
 - AI/ Machine Learning
 - Emerging Technologies
