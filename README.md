@@ -3,6 +3,13 @@
 Include an introduction here about the program and the blogs.
 
 ## Blog categories:
+We can include the different categories of blogs here like:
+- IoT
+- Data Science
+- AI/ Machine Learning
+- Emerging Technologies
+- Green Tech
+- Diversity and Inclusion
 
-
-
+## How to contribute:
+Needs details on who can contribute and the method of contribution with step
