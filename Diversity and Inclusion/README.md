@@ -1,4 +1,4 @@
-# Diversity and Inclusion <img src="https://i.ibb.co/cwbsTB1/PNG-logo.png" width=150 align='right'>
+# Diversity and Inclusion
 
 description about the category
 
