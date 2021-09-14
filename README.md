@@ -1,4 +1,4 @@
- Blogs
+# Blogs
 
 Include an introduction here about the program and the blogs.
 
