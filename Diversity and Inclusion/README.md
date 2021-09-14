@@ -1,4 +1,4 @@
-# Diversity and Inclusion
+# Diversity
 
 description about the category
 
